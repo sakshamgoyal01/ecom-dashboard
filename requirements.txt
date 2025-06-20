@@ -1,0 +1,13 @@
+kafka-python
+matplotlib
+textblob
+Faker
+wheel
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+xgboost
+lightfm
